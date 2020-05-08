@@ -1,0 +1,9 @@
+<style>
+    #DeltaPageStatusBar { display: none; }
+</style>
+
+<style type="text/css">
+#sideNavBox { display: none; }
+#contentBox { margin-left: 20px; }
+#DeltaPlaceHolderPageTitleInTitleArea{ display: none;}
+</style>
