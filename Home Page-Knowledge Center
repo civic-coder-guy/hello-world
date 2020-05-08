@@ -111,7 +111,7 @@ color:gold;
     position: relative;
     top: -2px;
     left: 40px;
-    background: url("https://army.deps.mil/army/cmds/1cd/SiteCollectionImages/1CAV.png")no-repeat left center transparent;
+    background: url("your image url here")no-repeat left center transparent;
     background-size: 80% 80%;
 }
 </style>
