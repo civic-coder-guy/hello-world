@@ -1,40 +1,40 @@
 <table align="center">
 <tr>
 	<td>     
-        <a style="width:220px" href="_blank" class="button">Your button name here</a>	
+        <a style="width:220px" href="#" class="button">Your button name here</a>	
 	</td>
 <td>
-		<a style="width:220px" href="_blank" class="button">Your button name here</a>	
+		<a style="width:220px" href="#" class="button">Your button name here</a>	
   	</td>
 </tr>
 <tr>
 	<td>
-		<a style="width:220px" href="_blank" class="button">Your button name here</a>	
+		<a style="width:220px" href="#" class="button">Your button name here</a>	
 	</td>
     <td>
-    	<a style="width:220px" href="_blank" class="button">Your button name here</a>
+    	<a style="width:220px" href="#" class="button">Your button name here</a>
     </td>
     </tr>
 <tr>
 	<td>
-		<a style="width:220px" href="_blank" class="button">Your button name here</a>	
+		<a style="width:220px" href="#" class="button">Your button name here</a>	
 	</td>
     <td>
-  		<a style="width:220px" href="_blank" class="button">Your button name here</a>		
+  		<a style="width:220px" href="#" class="button">Your button name here</a>		
 	</td>
     <tr>
 	<td>
-		<a style="width:220px" href="_blank" class="button">Home Station<br>Mission Command</a>
+		<a style="width:220px" href="#" class="button">Home Station<br>Mission Command</a>
 	</td>
     <td>
-    	<a style="width:220px" href="_blank" class="button">Your button name here</a>	
+    	<a style="width:220px" href="#" class="button">Your button name here</a>	
 	</td>
     <tr>
 	<td>
-    	<a style="width:220px" href="_blank" class="button">Your button name here</a>	
+    	<a style="width:220px" href="#" class="button">Your button name here</a>	
 	</td>
     <td>
-		<a style="width:220px" href="_blank" class="button">Your button name here</a>	
+		<a style="width:220px" href="#" class="button">Your button name here</a>	
 	</td>
 <tr><td></td></tr>
 </table>
@@ -90,7 +90,7 @@ color:black;
     position: relative;
     top: -2px;
     left: 40px;
-    background: url("Your Image")no-repeat left center transparent;
+    background: url("Your Image url here")no-repeat left center transparent;
     background-size: 80% 80%;
 }
 </style>
